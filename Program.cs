@@ -2,22 +2,23 @@
 using Test;
 
 internal class Program
+{
+    static void Main(String[] args)
     {
-        static void Main(String[] args)
+        Computer c = new Computer()
         {
-            Computer c = new Computer()
-            {
-                Id=0,
-                name="san",
-                flag = false
+            Id = 0,
+            name = "san",
+            flag = false
 
-            };
-            Console.WriteLine(c.flag);
-            Console.WriteLine(c.name);
-            Console.WriteLine(c.Id);
+        };
+        Console.WriteLine(c.flag);
 
-        }
+        Console.WriteLine(c.name);
+        Console.WriteLine(c.Id);
+
     }
+}
 
 // Console.WriteLine("Hello, World!!!");
 

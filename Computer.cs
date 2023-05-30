@@ -4,16 +4,16 @@ namespace Test
 {
     public class Computer
     {
-        public int Id { get; set;}
-        public string? name { get; set;}
+        public int Id { get; set; }
+        public string name { get; set; } = "";
 
-        public bool flag { get; set;}
+        public bool flag { get; set; }
 
         public Computer()
         {
-            if (Id>=1)
+            if (Id >= 1)
             {
-                Id=1001;
+                Id = 1001;
             }
         }
     }
