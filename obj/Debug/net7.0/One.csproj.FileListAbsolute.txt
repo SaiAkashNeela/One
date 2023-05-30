@@ -1,0 +1,15 @@
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/bin/Debug/net7.0/One
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/bin/Debug/net7.0/One.deps.json
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/bin/Debug/net7.0/One.runtimeconfig.json
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/bin/Debug/net7.0/One.dll
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/bin/Debug/net7.0/One.pdb
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.csproj.AssemblyReference.cache
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.AssemblyInfoInputs.cache
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.AssemblyInfo.cs
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.csproj.CoreCompileInputs.cache
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.dll
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/refint/One.dll
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.pdb
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/One.genruntimeconfig.cache
+/Users/saiakashneela/Desktop/PC/C-NetCore/One/obj/Debug/net7.0/ref/One.dll
